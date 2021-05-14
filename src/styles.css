@@ -18,6 +18,9 @@ button:hover {
   color: #fff;
   cursor: pointer;
 }
+li {
+  margin-right: 8px;
+}
 .input-area {
   background-color: #c1ffff;
   width: 384px;
@@ -37,7 +40,7 @@ button:hover {
   background-color: #ffff00;
   width: 400px;
   min-height: 200px;
-  margin: 8px;
+
   border-radius: 16px;
 }
 .title {
@@ -52,6 +55,6 @@ button:hover {
   color: #000000;
 }
 
-p {
+li {
   margin-bottom: 4px;
 }
